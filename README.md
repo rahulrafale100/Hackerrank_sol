@@ -1,4 +1,3 @@
 # Hackerrank_sol
 Solution is availbale
-Just for practice
-
+Just for simple practice
